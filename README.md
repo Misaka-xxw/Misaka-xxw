@@ -5,7 +5,7 @@ I am Misaka-xxw, a junior student majoring in Computer Science and Technology fr
 My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&layout=compact&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&hide=C#,Csharp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning (or rather, what I want to learn)
 
