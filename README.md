@@ -4,6 +4,8 @@ Thank you for visiting my Github page!
 I am Misaka-xxw, a junior student majoring in Computer Science and Technology from China.
 My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 
+![Misaka-xxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Misaka-xxw&count_private=true)
+
 ### 🌱 I’m currently learning (or rather, what I want to learn)
 
 + C/C++/C#/Python/Java and other foundational programming languages
