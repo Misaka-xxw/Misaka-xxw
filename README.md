@@ -15,7 +15,6 @@ My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&hide=c%23,ShaderLab,HLSL,SCSS&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Misaka-xxw)](https://git.io/streak-stats)
 
 ### 💬 My personal blogs
 
@@ -29,6 +28,8 @@ My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 + To create several Unity 2D games, both individually and as a team.
 + To develop practical utility software for computers or mobile phones, designed to address the specific needs and lifestyle of college students, perhaps?
 + To make small toys with microcontrollers, perhaps?
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Misaka-xxw&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
 
 ### 📫 How to reach me
 
