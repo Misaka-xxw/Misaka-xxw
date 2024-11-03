@@ -4,9 +4,6 @@ Thank you for visiting my Github page!
 I am Misaka-xxw, a junior student majoring in Computer Science and Technology from China.
 My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&layout=compact&hide=c-sharp,shaderLab,HTML)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🌱 I’m currently learning (or rather, what I want to learn)
 
 + C/C++/C#/Python/Java and other foundational programming languages
@@ -15,6 +12,10 @@ My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 + Fundamentals of computer science
 + Embedded systems
 + And so on... Oh my, I want to learn everything, but it's overwhelming.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&hide=c%23,ShaderLab,HLSL,SCSS&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Misaka-xxw)](https://git.io/streak-stats)
 
 ### 💬 My personal blogs
 
