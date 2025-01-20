@@ -11,10 +11,8 @@ My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 + Vue and JavaScript
 + Fundamentals of computer science
 + Embedded systems
-+ And so on... Oh my, I want to learn everything, but it's overwhelming.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&hide=c%23,ShaderLab,HLSL,SCSS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&langs_count=14&layout=compact)
 
 ### 💬 My personal blogs
 
@@ -24,7 +22,6 @@ My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 
 ### 📜 Some of my ideas
 
-+ To complete this [AI calling software](https://github.com/thetheorange/AiProject).
 + To create several Unity 2D games, both individually and as a team.
 + To develop practical utility software for computers or mobile phones, designed to address the specific needs and lifestyle of college students, perhaps?
 + To make small toys with microcontrollers, perhaps?
