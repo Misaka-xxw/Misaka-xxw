@@ -14,11 +14,7 @@ My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&langs_count=14&layout=compact)
 
-### 💬 My personal blogs
-
-+ [cnblog](https://home.cnblogs.com/u/3404836)
-+ [hexo blog](https://misaka-xxw.github.io/)
-+ As you can see, I haven't updated them yet. But I will update them in the future.
+### 💬 My personal blogs: <a href="https://misaka-xxw.github.io/">👉click here👈</a>
 
 ### 📜 Some of my ideas
 
