@@ -3,28 +3,20 @@
 ![](https://komarev.com/ghpvc/?username=Misaka-xxw)
 
 Thank you for visiting my Github page!
-I am Misaka-xxw, a junior student majoring in Computer Science and Technology from China.
+
+I am Misaka-xxw.
 My Chinese nickname is 昔我往矣, you can call me 小昔 or 小w. ✨
 
 ### 🌱 I’m currently learning (or rather, what I want to learn)
 
-+ C/C++/C#/Python/Java and other foundational programming languages
++ Foundational programming languages
 + Unity 2D game development
-+ Vue and JavaScript
 + Fundamentals of computer science
 + Embedded systems
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-xxw&langs_count=14&layout=compact)
-
-### 💬 My personal blogs: <a href="https://misaka-xxw.github.io/">👉click here👈</a>
-
-### 📜 Some of my ideas
-
-+ To create several Unity 2D games, both individually and as a team.
-+ To develop practical utility software for computers or mobile phones, designed to address the specific needs and lifestyle of college students, perhaps?
-+ To make small toys with microcontrollers, perhaps?
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Misaka-xxw&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
+
+### 💬 My personal blogs: <a href="https://misaka-xxw.github.io/blog">👉click here👈</a>
 
 ### 📫 How to reach me
 
